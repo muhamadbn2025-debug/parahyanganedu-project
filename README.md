@@ -111,7 +111,7 @@ Walaupun masih menggunakan pendekatan statis, project ini menjadi dasar untuk pe
 
 ---
 
-## 🔮 Pengembangan Selanjutnya
+## Pengembangan Selanjutnya
 
 * Menambahkan backend (API)
 * Menghubungkan database secara langsung ke website
