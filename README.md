@@ -3,7 +3,7 @@
 Platform pembelajaran online terjangkau yang dirancang khusus untuk komunitas Bandung.
 
 **Live Demo:** [Coming Soon]  
-**GitHub:** https://github.com/muhamadbn2025-debug/parahyanganedu-project/
+**GitHub:** https://github.com/muhamadbn2025-debug  
 **Developer:** Muhamad Awod
 
 ---
@@ -17,6 +17,7 @@ Parahyangan Edu adalah Learning Management System (LMS) yang mengatasi keterbata
 ## Technology Stack
 
 | Layer | Teknologi |
+|-------|-----------|
 | Frontend | React.js, HTML5, Tailwind CSS, JavaScript (ES6+) |
 | Backend | Laravel 11, PHP 8.2, Composer |
 | Database | MySQL |
@@ -165,6 +166,7 @@ Frontend berjalan di: `http://localhost:5173`
 ## API Endpoints
 
 | Method | Endpoint | Deskripsi |
+|--------|----------|-----------|
 | POST | `/api/register` | Registrasi mahasiswa baru |
 | POST | `/api/login` | Login & mendapatkan token |
 | GET | `/api/courses` | Daftar semua kursus |
