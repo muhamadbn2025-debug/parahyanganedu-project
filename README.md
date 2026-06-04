@@ -3,7 +3,7 @@
 Platform pembelajaran online terjangkau yang dirancang khusus untuk komunitas Bandung.
 
 **Live Demo:** [Coming Soon]  
-**GitHub:** https://github.com/muhamadbn2025-debug  
+**GitHub:** https://github.com/muhamadbn2025-debug/parahyanganedu-project/  
 **Developer:** Muhamad Awod
 
 ---
